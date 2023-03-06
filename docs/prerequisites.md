@@ -2,7 +2,7 @@
 
 1. Sign up https://github.com/
 2. Create repository in github named "getting-started-to-become-a-developer"
-3. Add `cphikmawan` as Admin/Maintainer to the repository
+3. Add `cphikmawan` as Admin orMaintainer to the repository
 4. Install Ubuntu 22.04, if you have any OS in your laptop like windows please do a dual boot, references
 
 ### References
